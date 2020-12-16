@@ -1,0 +1,15 @@
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BC_AndroidTriggers.exe
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BC_AndroidTriggers.deps.json
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BC_AndroidTriggers.runtimeconfig.json
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BC_AndroidTriggers.runtimeconfig.dev.json
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BC_AndroidTriggers.dll
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BC_AndroidTriggers.pdb
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\bin\Debug\netcoreapp3.0\WebPush.dll
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\obj\Debug\netcoreapp3.0\BC_AndroidTriggers.csprojAssemblyReference.cache
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\obj\Debug\netcoreapp3.0\BC_AndroidTriggers.AssemblyInfoInputs.cache
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\obj\Debug\netcoreapp3.0\BC_AndroidTriggers.AssemblyInfo.cs
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\obj\Debug\netcoreapp3.0\BC_AndroidTriggers.csproj.CopyComplete
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\obj\Debug\netcoreapp3.0\BC_AndroidTriggers.dll
+C:\Users\madan\source\repos\BC_AndroidTriggers\BC_AndroidTriggers\obj\Debug\netcoreapp3.0\BC_AndroidTriggers.pdb
